@@ -1,0 +1,12 @@
+
+Process life time:
+
+start
+read args
+read config (std + ?custom)
+
+prepare self for connection to the network
+
+do what it has to do
+
+end, maybe
